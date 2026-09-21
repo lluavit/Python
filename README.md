@@ -1,4 +1,3 @@
-# python-fundamentals
 # Python Fundamentals
 
 Repositório com exercícios e projetos desenvolvidos durante meus estudos de Python.
